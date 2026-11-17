@@ -1,56 +1,50 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**kori-time/kori-time** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kori 🐾
 
-Here are some ideas to get you started:
+**Streamer, developer and the cat behind [NekoWorld](https://nekoworld.app).**
+I build cozy things for streamers and their communities, and I host all of it myself.
 
-- 🔭 I’m currently working on a GTA RP Server and Discord Bot
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+[![kori.cat](https://img.shields.io/badge/kori.cat-website-ff6fcf?style=for-the-badge)](https://kori.cat)
+[![Twitch](https://img.shields.io/badge/Twitch-koritime-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/koritime)
+[![YouTube](https://img.shields.io/badge/YouTube-KoriTimeYT-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KoriTimeYT)
+[![Bluesky](https://img.shields.io/badge/Bluesky-koritime-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/koritime.bsky.social)
+[![Discord](https://img.shields.io/badge/Discord-Neko_Safe_Haven-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XzTbfAWkt9)
+[![Patreon](https://img.shields.io/badge/Patreon-KoriTime-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KoriTime)
 
-- ⚡ Fun fact: ...
--->
-### Hi there, I'm [Kori][website] 👋
-
-## Developer, Gamer and Streamer!
-
-- 🔭 I’m currently working on a Projects In LUA
-- 🌱 I’m currently learning what I need to know, to keep my skill better
-- 👯 I’m looking to collaborate with many people
-- 🥅 2026 Goals: Hell if i freaking know, I like cheese
-- ⚡ Fun fact: I love gaming, and that about it.
-  
-## ⚡ Find  Me on
-
-<div align='left' style="display: flex; justify-content: space-between;">
-	<a href='#'>
-	<img src=https://img.shields.io/badge/Discord-koritime.-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = koritime.'>
-	</a>
 </div>
 
-<hr>
+---
 
-<br />
+### 🌸 What I'm making
 
-### Languages and Tools:
+| | |
+|---|---|
+| 🐱 **[Neko Bot](https://nekobot.ca)** | Hugs, pats, nyans and more than 60 anime picture commands, on Discord and Stoat. |
+| 🎶 **[Neko Music](https://nekomusic.ca)** | A music bot that only plays copyright-free music (Jamendo, ccMixter, the Internet Archive), so streams stay safe. Discord and Stoat. |
+| 🌐 **[NekoWorld](https://nekoworld.app)** | My little corner of the internet: our own servers, our own control panel, our own monitoring and status page, our own accounts. Made in-house, no trackers, no ads. |
+| 📈 **[Uptime](https://status.nekoworld.app)** | Live status for everything above. |
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
-<img align="left" alt="LUA" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### 🧰 Things on this profile
 
-<br />
-<br />
+- **[nekonet-autoupdate](https://github.com/kori-time/nekonet-autoupdate)**: keeps a fleet of Ubuntu servers updated, one at a time, with failover and Discord alerts.
+- **[kori-toolbox](https://github.com/kori-time/kori-toolbox)**: a toolbox for looking after Linux systems like Arch and Debian.
+- **[Simple-Twitch-Chat](https://github.com/kori-time/Simple-Twitch-Chat)**: Twitch chat bubbles for OBS, with pronouns.
 
-[website]: https://github.com/kori-time
+### 💻 What I build with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,python,js,html,css,powershell,bash,linux,nginx,mysql,sqlite,git&perline=14" alt="C#, .NET, PHP, Python, JavaScript, HTML, CSS, PowerShell, Bash, Linux, nginx, MariaDB/MySQL, SQLite, Git">
+</p>
+
+Bots in **C#/.NET**, sites in plain **HTML, CSS and JavaScript** (16 languages, no frameworks), panels in **PHP**, monitoring in **Python**, and a lot of **Linux** in between.
+
+### 🎮 Off the clock
+
+Streaming, gaming and hanging out with the community. Fun fact: I still like cheese. 🧀
+
+<div align="center">
+
+<sub>Come say hi on <a href="https://twitch.tv/koritime">stream</a> or in <a href="https://discord.gg/XzTbfAWkt9">Neko Safe Haven</a>. 💜</sub>
+
+</div>
